@@ -1,0 +1,2 @@
+- [ ] "Search" button instead of "Apps" button
+- [ ] use drawer from [KISS launcher](https://github.com/Neamar/KISS) that let you search through your apps, contacts and settings.
